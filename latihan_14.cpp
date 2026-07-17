@@ -33,6 +33,7 @@ int main() {
                 cout << "Masukkan ulang volume (0-100)" << endl;
                 cin >> master;
             }
+            cout << "Mute : ";
         }else if(pilih == 2){
             cout << "Masukkan volume (0-100)" << endl;
             cin >> music;
